@@ -35,8 +35,8 @@ Hi, I'm Sérgio Shiraishi, a passionate self-taught full-stack developer from Br
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
 
-<a href="#macropower-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghoulsas&show_icons=true&count_private=true&include_all_commits=true" alt="ghoulsas" align="right" />
+<a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ghoulsas&show_icons=true&count_private=true&include_all_commits=true" alt="ghoulsas" />
 </a>
 </a>
 
