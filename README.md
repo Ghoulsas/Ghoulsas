@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-Hi, I'm Sérgio Mendes, a passionate self-taught full-stack developer from Brazil.
+Hi, I'm Sérgio Shiraishi, a passionate self-taught full-stack developer from Brazil.
 
 - 🌱 I’m currently learning: 
     - Typescript
@@ -37,6 +37,4 @@ Hi, I'm Sérgio Mendes, a passionate self-taught full-stack developer from Brazi
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghoulsas&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Ghoulsas's github stats" />
 </a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghoulsas&layout=compact)]
 
