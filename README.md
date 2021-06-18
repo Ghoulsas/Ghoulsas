@@ -34,7 +34,9 @@ Hi, I'm Sérgio Mendes, a passionate self-taught full-stack developer from Brazi
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghoulsas&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Ghoulsas's github stats" />
 </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghoulsas&layout=compact)]
 
