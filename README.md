@@ -38,5 +38,7 @@ Hi, I'm Sérgio Shiraishi, a passionate self-taught full-stack developer from Br
 <a>
   <img src="https://github-readme-stats.vercel.app/api?username=ghoulsas&show_icons=true&count_private=true&include_all_commits=true" alt="ghoulsas" />
 </a>
-</a>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghoulsas" />
+    </a>
 
