@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 Hi, I'm Sérgio Shiraishi, a passionate self-taught full-stack developer from Brazil.
 
 - 🌱 I’m currently learning: 
-    - Typescript
+    - Typescript;
+    - CSS art
 
 
 **Languages and Tools:**  
