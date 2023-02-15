@@ -23,7 +23,6 @@ Hi, I'm Sérgio Shiraishi, a passionate self-taught full-stack developer from Br
 
 - 🌱 I’m currently learning: 
     - Typescript;
-    - CSS art
 
 
 **Languages and Tools:**  
